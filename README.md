@@ -1,3 +1,3 @@
 <p align="center">
-  <img align="center" src="![spin](https://user-images.githubusercontent.com/58383582/186146689-a8d7ba60-eb02-4749-a68d-9d4c20f0ffb3.gif)"> 
+  <img align="center" width = "96.25px" height = "166.25px" src="https://media4.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif?cid=790b761102e1eb8dd37a409e0652a19e4884cb0c3d87eff2&rid=giphy.gif&ct=s"> 
 </p>
