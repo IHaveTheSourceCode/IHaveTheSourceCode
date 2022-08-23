@@ -1,1 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/58383582/186145923-832b2450-b55c-48f0-8fef-afad1c710fd0.gif)
+<p align="center">
+  <img align="center" src="![spin](https://user-images.githubusercontent.com/58383582/186146689-a8d7ba60-eb02-4749-a68d-9d4c20f0ffb3.gif)"> 
+</p>
