@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=flat) 
 ![Prettier](https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat)
-![ViteJS](https://custom-icon-badges.demolab.com/badge/vitejs?logo=vitejs&logoColor=white&style=flat)
+![ViteJS](https://img.shields.io/badge/Vite-red?logo=vite&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=Visual-Studio-Code&logoColor=white&style=flat)
 
 ## :hammer_and_wrench:  Projects 
@@ -29,6 +29,6 @@
 
 ## :mortar_board: My programming life in stats and numbers:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHaveTheSourceCode&theme=dark)
-![Marcin GitHub stats](https://github-readme-stats.vercel.app/api?username=IHaveTheSourceCode&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihavethesourcecode&count_private=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact  
