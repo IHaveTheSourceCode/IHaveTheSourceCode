@@ -31,5 +31,3 @@
 ## :mortar_board: My programming life in stats and numbers:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHaveTheSourceCode&theme=dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihavethesourcecode&count_private=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact  
