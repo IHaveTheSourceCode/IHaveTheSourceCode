@@ -24,7 +24,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=Visual-Studio-Code&logoColor=white&style=flat)
 
 ## :hammer_and_wrench:  Projects 
-### :sparkles: [My portfolio site](https://github.com/IHaveTheSourceCode/portfolio-site) You can find more information about me here. [[repo link]](https://github.com/IHaveTheSourceCode/portfolio-site)
+### :sparkles: [My portfolio site](https://portfolio-site-eta-beige.vercel.app/) You can find more information about me here. [[repo link]](https://github.com/IHaveTheSourceCode/portfolio-site)
 ### :jack_o_lantern: [Candy catcher game](https://candy-catcher-game.vercel.app/) Candy catching game with halloween motive. [[repo link]](https://github.com/IHaveTheSourceCode/candy-catcher-game)
 ### :books: [Comic Finder](https://ihavethesourcecode.github.io/comics-searcher/) - My favourite API project [[repo link]](https://github.com/IHaveTheSourceCode/comics-searcher)
 ### :memo: [To Do List](https://to-do-list-beta-blush.vercel.app/) To Do App with many usefull features. [[repo link]](https://github.com/IHaveTheSourceCode/to-do-list)
