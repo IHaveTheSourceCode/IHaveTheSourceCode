@@ -2,7 +2,7 @@
  ### Thanks for viewing my GitHub Profile! :hugs:
  
  ## :frowning_man: About me
- - I'm aspiring Front-end Developer :computer:
+ - I'm aspiring Developer :computer:
  - I love learning new things and going deeper in subjects I already have knowledge about :fire:
  - Yes, I am looking for a job to develop my skills and contribute to it :hammer:
  - I'm ready for new challenges and a large dose of knowledge :muscle:
