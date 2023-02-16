@@ -14,8 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=flat)
 ![SASS](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat) 
-![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
 
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white&style=flat) 
@@ -28,6 +27,7 @@
 ### :jack_o_lantern: [Candy catcher game](https://candy-catcher-game.vercel.app/) Candy catching game with halloween motive. [[repo link]](https://github.com/IHaveTheSourceCode/candy-catcher-game)
 ### :books: [Comic Finder](https://ihavethesourcecode.github.io/comics-searcher/) - My favourite API project [[repo link]](https://github.com/IHaveTheSourceCode/comics-searcher)
 ### :memo: [To Do List](https://to-do-list-beta-blush.vercel.app/) To Do App with many usefull features. [[repo link]](https://github.com/IHaveTheSourceCode/to-do-list)
+### :construction_worker: [Worker's Table](https://ihavethesourcecode.github.io/table-for-adding-workers-desktop-only/) Vue.js project. Tables can be downloaded as CSV or PDF files. [[repo link]](https://github.com/IHaveTheSourceCode/table-for-adding-workers-desktop-only)
 ## :mortar_board: My programming life in stats and numbers:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IHaveTheSourceCode&theme=dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihavethesourcecode&count_private=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
